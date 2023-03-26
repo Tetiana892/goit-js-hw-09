@@ -24,7 +24,7 @@ const options = {
     } else {
       btnStart.disabled = false;
     }
-    //     console.log(selectedDates[0]);
+    console.log(selectedDates[0]);
   },
 };
 
